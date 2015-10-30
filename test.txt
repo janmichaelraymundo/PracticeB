@@ -1,1 +1,2 @@
 userA was here
+userB was here
